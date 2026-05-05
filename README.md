@@ -9,8 +9,7 @@ of water, inefficient utilization of resources and decline in
 production. The methods do not fit the changes occurring in the
 soil and natural conditions in a real-time and this hinders
 effectiveness. To ease these problems, a new novel suggests a Soil
-AgriTech system comprised of integrating IoT-based soil
-sensation and machine learning in monitoring real-time and
+AgriTech system comprised of integrating machine learning in monitoring real-time and
 suggesting irrigation in intelligent manner. It obtains the
 parameters like the soil moisture, temperature, PH, and
 nutrient documentation and creates data-based irrigation
